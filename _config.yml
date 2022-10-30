@@ -1,4 +1,13 @@
+title: Home
+
+author:
+  name: Andrew Friedemann
+  email: andrewsfriedemann@gmail.com
+
 minima:
   skin: dark
+  social_links:
+    github: andrewfriedemann
+    linkedin: andrew-friedemann
 
 theme: minima
