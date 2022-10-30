@@ -2,6 +2,8 @@ title: Home
 author:
   name: Andrew Friedemann
   email: andrewsfriedemann@gmail.com
+headline: https://github.com/andrewfriedemann
+description: A site built with Jekyll, hosted by GitHub Pages.
 
 minima:
   skin: dark
