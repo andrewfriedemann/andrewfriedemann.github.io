@@ -56,8 +56,8 @@ $on-large:         $on-laptop !default;
 // This style sheet implements three options for the minima.skin setting:
 // "solarized-light" for light mode, "solarized-dark" for dark mode, and
 // "solarized" for light or dark mode depending on user preference.
-$sol-is-auto: true !default;
-$sol-is-dark: false !default;
+$sol-is-auto: false !default;
+$sol-is-dark: true !default;
 
 
 // Color scheme
