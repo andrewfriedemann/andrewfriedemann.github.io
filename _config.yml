@@ -10,7 +10,4 @@ minima:
     github: andrewfriedemann
     linkedin: andrew-friedemann
 
-header_pages:
-  - about.md
-
 theme: minima
