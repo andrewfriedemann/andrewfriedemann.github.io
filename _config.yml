@@ -1,10 +1,11 @@
 title: Home
 author: Andrew Friedemann
 email: andrewsfriedemann@gmail.com
-url: https://www.andrewfriedemann.com/
-headline: https://github.com/andrewfriedemann
+url: https://www.andrewfriedemann.com
 description: A site built with Jekyll, hosted by GitHub Pages.
 github_username: andrewfriedemann
 linkedin_username: andrew-friedemann
+header_pages:
+  - about.md
 
 theme: minima
